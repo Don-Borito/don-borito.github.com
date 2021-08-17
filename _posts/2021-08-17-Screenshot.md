@@ -1,10 +1,10 @@
 ---
 Layout:post
-Title: how to screenshot
+Title: how to Bildschirm zoom
 ---
 
 
-# Wie mache ich einen screenshot
+# wie zoome ich den Bildschirm auf Chrome
 
 ## Aufgabenstellung
 
