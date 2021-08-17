@@ -37,4 +37,5 @@ Beim nächsten Projekt werde ich meine zeit besser einplanen.
 Meine Ziele habe ich erreicht:
 
 Ziel 1: ✔ Ich habe den Bildschirmzoom auf zwei Arten gut erklärt. Mein Bruder weiss jetzt wie das Funktioniert.
+
 Ziel 2: ✔ Ich habe verschiedene Medien (Text, Video, Bild) genutzt.
