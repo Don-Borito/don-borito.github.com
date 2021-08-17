@@ -1,5 +1,10 @@
-# Wie mache ich einen screenshot
+---
+Layout:post
+Title: how to screenshot
+---
 
+
+# Wie mache ich einen screenshot
 
 ## Aufgabenstellung
 
