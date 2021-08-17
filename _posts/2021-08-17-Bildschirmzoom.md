@@ -1,6 +1,6 @@
 ---
-Layout:post
-Title:How to Bildschirm zoom
+Layout: post
+Title: How to Bildschirm zoom
 ---
 
 
