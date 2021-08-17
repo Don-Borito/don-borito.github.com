@@ -1,10 +1,10 @@
 ---
 Layout:post
-Title: how to Bildschirm zoom
+Title:How to Bildschirm zoom
 ---
 
 
-# wie zoome ich den Bildschirm auf Chrome
+# Wie zoome ich den Bildschirm auf Chrome
 
 ## Aufgabenstellung
 
