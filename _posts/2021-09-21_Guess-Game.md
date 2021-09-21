@@ -8,7 +8,7 @@ Title: Random-Number guessing Game
 
 ## Aufgabenstellung
 
-An der BBB hatte ich den Auftrag ein Random-Number guessing Game zu programmieren. Dieses Programm soll eine zufällige Zahl zwisch 1 und 100 generieren, die geheim gehalten wird und eratet werdend kann. Je nach Antwort wird ein Tipp ausgegeben.
+An der BBB hatte ich den Auftrag bekommen in C# ein Random-Number guessing Game zu programmieren. Dieses Programm soll eine zufällige Zahl zwisch 1 und 100 generieren, die geheim gehalten wird und eratet werdend kann. Je nach Antwort wird ein Tipp ausgegeben.
 
 ### Ziele:
 1. Ich kann eine zufällige Zahl generieren.
