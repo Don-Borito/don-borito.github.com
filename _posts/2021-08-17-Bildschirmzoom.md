@@ -1,46 +1,64 @@
 ---
 Layout: post
-Title: How to Bildschirm zoom
+Title: Random-Number guessing Game
 ---
 
+# Random number guessing Game
 
-# Wie zoome ich den Bildschirm auf Chrome
 
 ## Aufgabenstellung
 
-An der BBBaden hatte ich den Auftrag ein einfaches Portfolio zu verfassen. Ich habe mich dazu entschieden zu erklären wie man auf Chrome den Bildschirm zoomt
+An der BBB hatte ich den Auftrag ein Random-Number guessing Game zu programmieren. Dieses Programm soll eine zufällige Zahl zwisch 1 und 100 generieren, die geheim gehalten wird und eratet werdend kann. Je nach Antwort wird ein Tipp ausgegeben.
 
-Ziele:
-1. Auf mindestens 2 arten erklären
-2. Verschiedene Medien Gebrauchen
+### Ziele:
+1. Ich kann eine zufällige Zahl generieren.
+2. Ich kann Eingaben testen lassen und darauf antworten.
+3. Das Spiel ist bedienerfreundlich.
 
 ## Inhalt Nr.1
-Die erste Version die ich erklären möchte ist das Zoomen über das Mousepad. Diese Funktion ist sehr einfach, dazu muss man nur zwei Finger auf das Mousepad legen und sie auseinander ziehen.
-sie können diese funktion auch über `cmd.exe` aufrufen
+Für den Anfang möchte ich hier den Teil meines Codes Zeigen der eine Zufällige Zahl generiert und die Eingaben prüft. Da diese Funktion das Herzstück des Programms darstellt und ich das neu gelernt habe.
+```
+int number = new Random().Next(1, 101);
+
+```
+
+```
+   }
+   else
+   {
+        if (guessconvert < number)
+      Console.WriteLine("try a bigger number:");
+        Console.Beep();
+
+        if (guessconvert > number)
+      Console.WriteLine("Try a smaller number:");
+       Console.Beep();
+   
+       guess = Console.ReadLine();
+      guessconvert = Convert.ToInt32(guess);                            
+       tries = tries + 1;
+     }
+```
 
 ## Inhalt Nr.2
+Als eigene Anforderung habe ich mir auch vorgenommen neben den Tipps bei den Versuchen eine Grafische Rückgabe zu programmieren. 
 
-zu diesem thema habe ich auch ein Video erstellt, das finden sie [hier](https://youtu.be/WhxhA0bFCgI)
-
+[![code](https://snipboard.io/ZJj7R9.jpg)](https://snipboard.io/ZJj7R9.jpg)
 ## Inhalt Nr.3
 
-Wenn sie Code verwenden möchten schreiben sie im Codeprogramm ihrer Wahl:
-```
-example.blabla.something
-```
-
+Zusätzlich möchte ich noch ein [Video](https://www.youtube.com/watch?v=bglrcrPmM8Q&ab_channel=AmonBurgherr) vom Gameplay zeigen.
 
 ## Reflexion und Verifikation
 
 ### Reflexion:
-Grundsätzlich habe ich das Projekt gut Abgeschlossen und bin zufrieden, für meinen kleinen Bruder der keine Ahnung hatte war das eine gute Erklärung.
+Mein Programm ist Abgeschlossen mit allen Anforderungen und Funktioniert, ich habe verschiedene neue Funktionen auf Visual Studio kennengelernt.
 
-Meine Schwierigkeit war hauptsächlich der Zeitdruck wegen falscher Einteilung.
-Beim nächsten Projekt werde ich meine zeit besser einplanen.
+Verbesserungen: Ich sollte nächstes mal mehr optionale Ziele planen, falls ich schneller fertig bin als gedacht.
 
 ### Verifikation:
 Meine Ziele habe ich erreicht:
 
-Ziel 1: ✔ Ich habe den Bildschirmzoom auf zwei Arten gut erklärt. Mein Bruder weiss jetzt wie das Funktioniert.
+Ziel 1: ✔ Ich kann eine zufällige Zahl generieren.
+Ziel 2: ✔ Ich kann Eingaben testen lassen und darauf antworten.
+Ziel 3: ✔ Das Spiel ist bedienerfreundlich.
 
-Ziel 2: ✔ Ich habe verschiedene Medien (Text, Video, Bild) genutzt.
