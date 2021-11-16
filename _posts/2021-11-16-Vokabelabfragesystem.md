@@ -62,4 +62,5 @@ Verbesserungen: Wir hätten am Anfang besser planen sollen da es nicht eine Einz
 Meine Ziele habe ich erreicht:
 
 Ziel 1: ✔ Der Benutzer kann die Vokabeln übersetzen.
+
 Ziel 2: ✔ Die Eingaben werden geprüft und falsche werden später erneut gefragt.
