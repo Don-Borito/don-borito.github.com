@@ -10,10 +10,9 @@ Title: Gruppenarbeit Vokabelabfrage per .csv Datei
 An der BBBaden hatten wir den Auftrag ein Vokabelabfragesystem zu programmieren. Dieses Programm soll Vokabeln aus einer Datei abfragen um zu üben. Bei falschen Antworten soll das Wort erneut gefragt werden.
 
 ### Ziele:
-1. Das Programm kann Vokabeln aus einer .csv Datei aufrufen.
-2. Der Benutzer kann die Vokabeln übersetzen.
-3. Die Eingaben werden geprüft und falsche werden später erneut gefragt.
-4. Das Programm kann Highscores in einer .csv Datei speichern.
+1. Der Benutzer kann die Vokabeln übersetzen.
+2. Die Eingaben werden geprüft und falsche werden später erneut gefragt.
+
 
 ## Inhalt Nr.1
 Für den Anfang möchte ich hier den Teil meines Codes Zeigen, der die Eingaben mit den Daten aus der Datei vergleicht. Denn diese Funktion gehört zu den Herzstücken des Programms und ich das neu gelernt habe.
@@ -62,7 +61,5 @@ Am Anfang hatten wir ein paar Probleme mit dem Zusammenfügen des Codes, da wir 
 ### Verifikation:
 Meine Ziele habe ich erreicht:
 
-Ziel 1: ✔ Das Programm kann Vokabeln aus einer .csv Datei aufrufen.
-Ziel 2: ✔ Der Benutzer kann die Vokabeln übersetzen.
-Ziel 3: ✔ Die Eingaben werden geprüft und falsche werden später erneut gefragt.
-Ziel 3: ✔ Das Programm kann Highscores in einer .csv Datei speichern.
+Ziel 1: ✔ Der Benutzer kann die Vokabeln übersetzen.
+Ziel 2: ✔ Die Eingaben werden geprüft und falsche werden später erneut gefragt.
