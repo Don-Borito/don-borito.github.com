@@ -53,10 +53,10 @@ Zusätzlich möchte ich noch ein [Video](https://youtu.be/s2Fcle4nVS8) vom Gamep
 
 ### Reflexion:
 Unser Programm ist abgeschlossen mit allen Anforderungen und Funktioniert einwandfrei. 
-Ich habe neu gelernt wie man Daten aus .csv Dateien verwendet. 
+Ich habe neu gelernt wie man Daten aus .csv Dateien verwendet. Und habe meine Fähigkeiten mit if Funktionen verbessert.
 Am Anfang hatten wir ein paar Probleme mit dem Zusammenfügen des Codes, da wir alle verschiedene Vorstellungen hatten und jeder seine eigene Art hat. Doch dieses Problem wurde mit der Zeit beseitigt.
 
- Verbesserungen: Wir hätten am Anfang besser planen sollen da es nicht eine Einzelarbeit ist, in der man schnell den Plan ändern kann, falls es nicht passt. Denn es gab verschieden Sachen die vor anderen gemacht werden mussten, was wir nicht bedacht haben.
+Verbesserungen: Wir hätten am Anfang besser planen sollen da es nicht eine Einzelarbeit ist, in der man schnell den Plan ändern kann, falls es nicht passt. Denn es gab verschieden Sachen die vor anderen gemacht werden mussten, was wir nicht bedacht haben.
 
 ### Verifikation:
 Meine Ziele habe ich erreicht:
