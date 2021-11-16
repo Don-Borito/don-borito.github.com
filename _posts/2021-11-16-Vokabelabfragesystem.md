@@ -53,7 +53,7 @@ Zusätzlich möchte ich noch ein [Video](https://youtu.be/s2Fcle4nVS8) vom Gamep
 ## Reflexion und Verifikation
 
 ### Reflexion:
-Unser Programm ist Abgeschlossen mit allen Anforderungen und Funktioniert einwandfrei. 
+Unser Programm ist abgeschlossen mit allen Anforderungen und Funktioniert einwandfrei. 
 Ich habe neu gelernt wie man Daten aus .csv Dateien verwendet. 
 Am Anfang hatten wir ein paar Probleme mit dem Zusammenfügen des Codes, da wir alle verschiedene Vorstellungen hatten und jeder seine eigene Art hat. Doch dieses Problem wurde mit der Zeit beseitigt.
 
