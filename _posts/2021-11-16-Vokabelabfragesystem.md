@@ -7,7 +7,7 @@ Title: Gruppenarbeit Vokabelabfrage per .csv Datei
 
 ## Aufgabenstellung
 
-An der BBB hatten wir den Auftrag ein Vokabelabfragesystem zu programmieren. Dieses Programm soll Vokabeln aus einer Datei abfragen um zu üben. Bei falschen Antworten soll das Wort erneut gefragt werden.
+An der BBBaden hatten wir den Auftrag ein Vokabelabfragesystem zu programmieren. Dieses Programm soll Vokabeln aus einer Datei abfragen um zu üben. Bei falschen Antworten soll das Wort erneut gefragt werden.
 
 ### Ziele:
 1. Das Programm kann Vokabeln aus einer .csv Datei aufrufen.
