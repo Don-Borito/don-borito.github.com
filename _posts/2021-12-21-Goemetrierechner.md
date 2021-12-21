@@ -7,7 +7,7 @@ Title: Random-Number guessing Game
 
 ## Aufgabenstellung
 
-An der BBB hatten wir den Auftrag einen Geometrierechner zu programmieren. Bei diesem Programm sollen verschiedene Formen und die Art der Berechnung ausgewählt werden können. Nach der Berechnung soll eine Skizze der Form gezeigt werden.
+An der BBB hatten wir den Auftrag mit Windows Forms einen Geometrierechner zu programmieren. Bei diesem Programm sollen verschiedene Formen und die Art der Berechnung ausgewählt werden können. Nach der Berechnung soll eine Skizze der Form gezeigt werden.
 
 ### Ziele:
 1. Das Programm kann Fläche, Ufang und Volumen verschiedener Formen berechnen können.
