@@ -62,5 +62,7 @@ Verbesserungen: Wir hätten uns im gesamten besser aufteilen können, wir waren 
 Meine Ziele habe ich erreicht:
 
 Ziel 1: ✔ Das Programm kann Fläche, Ufang und Volumen verschiedener Formen berechnen können.
+
 Ziel 2: ✔ Die Eingaben werden geprüft und bei falschen erscheint ein Warnfenster.
+
 Ziel 3: ✔ Nach der Berechnung erscheint ein neues Form mit der Lösung und einer Skizze.
