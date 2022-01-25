@@ -1,6 +1,6 @@
 ---
 Layout: post
-Title: Random-Number guessing Game
+Title: Gruppenarneit Geometrierechner
 ---
 
 # Gruppenarbeit Geometrierechner
